@@ -1,4 +1,4 @@
-# Git Assignment - <KathrynVozoris>
+# Git Assignment - KathrynVozoris
 
 a. What is an issue?
 
