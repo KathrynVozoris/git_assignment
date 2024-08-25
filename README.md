@@ -1,1 +1,1 @@
-# Git Assignment - <KathrynVozoris>
+# Git Assignment - KathrynVozoris
